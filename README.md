@@ -14,7 +14,7 @@
 <a href="https://discord.gg/Baha#0798" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Baha#0798" height="30" width="40" /></a>
 
 
-</p> 📫 <a href="mailto:Bahaalden@aol.com">Send me an email</a></p> 
+</p> 📫 <a href="mailto:baha.alden.job@gmail.com">Send me an email</a></p> 
 
 <p align="left">
 <a href="https://bhasim.github.io/protfolio-Baha/">My Portfolio</a>
