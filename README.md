@@ -17,7 +17,7 @@
 </p> 📫 <a href="mailto:baha.alden.job@gmail.com">Send me an email</a></p> 
 
 <p align="left">
-<a href="www-baha.vercel.app/">My Portfolio</a>
+<a href="https://www-baha.vercel.app">My Portfolio</a>
 </p>
 
 
